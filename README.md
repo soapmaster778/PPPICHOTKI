@@ -3,6 +3,10 @@
 Треба зробити супер круті методи для нашого проєкту
 
 void plus(double a, double b) {
-    cout << a + b;
+    cout << a - b;
 
+}
+
+void minus (double a, double b) {
+    cout << b - a;
 }
