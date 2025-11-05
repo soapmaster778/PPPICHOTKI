@@ -10,3 +10,7 @@ void plus(double a, double b) {
 void minus (double a, double b) {
     cout << b - a;
 }
+
+void div(double a, double b) {
+cout << a/b;
+} 
