@@ -12,3 +12,9 @@ void minus (double a, double b) {
 }
 
 льня тута роби
+
+
+void div(double a, double b) {
+cout << a/b;
+} 
+
