@@ -10,3 +10,5 @@ void plus(double a, double b) {
 void minus (double a, double b) {
     cout << b - a;
 }
+
+льня тута роби
