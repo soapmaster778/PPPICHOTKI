@@ -11,6 +11,10 @@ void minus (double a, double b) {
     cout << b - a;
 }
 
+льня тута роби
+
+
 void div(double a, double b) {
 cout << a/b;
 } 
+
